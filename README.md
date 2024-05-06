@@ -1,1 +1,1 @@
-# HumanActivityPrediction
+# Human Activity Prediction
